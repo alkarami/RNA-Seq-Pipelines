@@ -1,0 +1,8 @@
+samples,group
+Control-1.fastq_sorted.bam,cont
+Control-2.fastq_sorted.bam,cont
+Control-3.fastq_sorted.bam,cont
+IL13-3d-1_S7.fastq_sorted.bam,3d
+IL13-3d-2_S8.fastq_sorted.bam,3d
+IL13-7d-1_S4.fastq_sorted.bam,7d
+IL13-7d-3_S6.fastq_sorted.bam,7d
